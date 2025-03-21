@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/TerraDray/nucampsite#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.14.1",
     "parcel": "^2.14.1"
   },
   "dependencies": {
